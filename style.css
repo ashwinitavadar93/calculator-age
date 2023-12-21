@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins&family=Roboto&display=swap');
+
+*{
+    color: white;
+    margin: 0px;
+    padding: 5px;
+    /* box-sizing: border-box; */
+    font-family: 'itim', cursive;
+    margin: 0;
+    /* background-color: #0E2F2F; */
+    /* border-radius: 10px; */
+
+}
+header{
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+
+    body{
+        text-align: center;
+        background-color: #0E2F2F; 
+        padding-bottom: 50px;
+    }
+  
+  
+
+input{
+    padding-top: 10px;
+background-color: rgb(83, 83, 82);
+margin: 40px;
+
+
+    
+}
+button{
+    /* color: white; */
+    background-color: rgb(247, 173, 82);
+    border-radius: 10px;
+    /* margin: 5px; */
+    font-size: medium;
+   
+    
+
+}
+
+label{
+    color: white;
+    padding: 0px;
+}
+ #Calculate age:hover{
+    color: chocolate;
+    margin: 10px;
+    padding-bottom: 10px;
+  
+} 
+h2{
+    color: rgb(247, 173, 82);
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+/* a{
+    margin: 2px;
+    width: 2px;
+    font-size: large;
+    color:blueviolet;
+    height: 40px;
+
+} */
+p{
+    padding: 10px;
+    margin: 10px;
+}
+button:hover{
+    background-color: rgb(83, 83, 82);
+}
+i:hover{
+    background-color: rgb(83, 83, 82);
+    margin: 5px;
+
+}
+#color{
+    background-color: rgb(119, 115, 115);
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+
